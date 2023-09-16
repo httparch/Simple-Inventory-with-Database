@@ -57,11 +57,6 @@ public class SplashScreen extends JFrame {
 		admin.setVisible(true);
 	}
 	
-	
-
-	/**
-	 * Create the frame.
-	 */
 	public SplashScreen() {
 		setType(Type.UTILITY);
 		setEnabled(false);
