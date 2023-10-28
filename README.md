@@ -1,4 +1,4 @@
 # simple-inventory
-simple CRUD inventory using java w/ gui
+simple inventory using java w/ gui + splashscreen
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 Simple Invetory with MySQL db
