@@ -110,7 +110,7 @@ public class Inventory extends JFrame {
 		contentPane.setLayout(null);
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
-			con =  DriverManager.getConnection("jdbc:mysql://localhost:3306/products","root","admin123");	//establish connection to database
+			con =  DriverManager.getConnection("jdbc:mysql://localhost:3306/products"," "," ");	//establish connection to database
 			st = con.createStatement();
 		}catch(Exception e2) {
 			e2.printStackTrace();
