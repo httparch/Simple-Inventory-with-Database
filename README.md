@@ -16,10 +16,10 @@ Make sure to run splash screen source code first haha.
  ![splash-screen](https://github.com/httparch/Simple-Inventory-with-Database/assets/115735884/b7f43a2a-77b7-4029-a59b-00d7bde3a4a9)
 
 
-After the loading screen
-Credentials:
-⚡Login: admin
-🔑Password: admin123
+After the loading screen <br>
+**Credentials:**
+⚡**Login:** admin 
+🔑**Password:** admin123
 ![login-page](https://github.com/httparch/Simple-Inventory-with-Database/assets/115735884/d2720811-ebcf-4757-95fb-cac25e100b3f)
 
 After logging in, is the main interface and dashboard.
@@ -27,7 +27,7 @@ After logging in, is the main interface and dashboard.
 ![inventory-ui2](https://github.com/httparch/Simple-Inventory-with-Database/assets/115735884/12fba170-f7a5-452e-a32a-74f88ad82a9b)
 
 
-🐤Features:
+🐤**Features:**
 
 * You can add, update, delete, display and search for the product.
 * Total products and stock values are automatically calculated and displayed
